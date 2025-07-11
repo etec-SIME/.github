@@ -27,14 +27,16 @@ Funciona no computador e no celular, ajudando diretores, coordenadores e equipes
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
 />
 
+
 <img 
     align="left" 
     alt="Angular"
     title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
 />
+
 
 
 
