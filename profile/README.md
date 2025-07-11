@@ -96,6 +96,13 @@ Funciona no computador e no celular, ajudando diretores, coordenadores e equipes
 🔗 [github.com/NeWo-tcc](https://github.com/NeWo-tcc)
 <br><br>
 
-> “Tecnologia a serviço da educação e da eficiência.”  
-> — Time NeWo
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeWo-tcc&show_icons=true&theme=tokyonight&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeWo-tcc&layout=compact&theme=tokyonight)
+
+</div>
+
 
