@@ -96,4 +96,7 @@ Funciona no computador e no celular, ajudando diretores, coordenadores e equipes
 🔗 [github.com/NeWo-tcc](https://github.com/NeWo-tcc)
 <br><br>
 
+## 🤝 Colaboradores
+
+A **NeWo** é formada por estudantes da **ETEC Horácio Augusto da Silveira**, com apoio institucional do **Centro Paula Souza**, parceiros no desenvolvimento de soluções voltadas à educação pública.
 
