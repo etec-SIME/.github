@@ -86,6 +86,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserve
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
+
 O Sistema de Integrado de Manutenção Escolar (SIME) é um sistema criado para facilitar a gestão de manutenção em escolas. Com uma interface simples e acessível, permite registrar ordens de serviço, acompanhar tarefas em tempo real e manter tudo organizado em um só lugar.
 Funciona no computador e no celular, ajudando diretores, coordenadores e equipes técnicas a terem mais controle, agilidade e economia no cuidado com a infraestrutura escolar.
 
