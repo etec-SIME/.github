@@ -24,11 +24,11 @@ Somos a NeWo, uma empresa de tecnologia dedicada ao desenvolvimento de soluçõe
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
