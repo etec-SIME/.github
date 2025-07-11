@@ -90,22 +90,11 @@ O Sistema de Integrado de Manutenção Escolar (SIME) é um sistema criado para 
 Funciona no computador e no celular, ajudando diretores, coordenadores e equipes técnicas a terem mais controle, agilidade e economia no cuidado com a infraestrutura escolar.
 <br><br>
 
-### 📊 Estatísticas
+## 🧭 Navegação
+- [Sobre a NeWo](#📔-newo)
+- [Tecnologias Utilizadas](#sime---sistema-integrado-de-manutenção-escolar)
+- [Sobre o Projeto SIME](#sime---sistema-integrado-de-manutenção-escolar)
+- [Colaboradores](#🤝-colaboradores)
+- [Estatísticas](#📊-estatísticas)
+- [Contato](#📫-contato)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NeWo-tcc&show_icons=true&theme=include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeWo-tcc&theme=layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
