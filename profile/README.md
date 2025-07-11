@@ -1,9 +1,5 @@
 # 📔 NeWo
 
-<p align="center">
-  <img src=""C:\Documentos\banner.png"" alt="Banner NeWo" width="100%">
-</p>
-
 **`Empresa de desenvolvimento de softwares`**
 
 Somos a NeWo, uma empresa de tecnologia dedicada ao desenvolvimento de soluções inovadoras que contribuem para a melhoria da qualidade dos serviços em diferentes setores. Nosso objetivo é criar softwares eficientes, intuitivos e que realmente façam a diferença no dia a dia das pessoas e instituições. Acreditamos que a tecnologia deve ser acessível, funcional e voltada para resolver problemas reais com inteligência e organização.
