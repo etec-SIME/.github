@@ -39,14 +39,52 @@ Somos a NeWo, uma empresa de tecnologia dedicada ao desenvolvimento de soluçõe
 />
 <img 
     align="left" 
-    alt="SQL Server"
-    title="SQL Server" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlserver/sqlserver-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Intellij" 
+    title="Intellij"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="microsoftsqlserver" 
+    title="microsoftsqlserver"
+    width="30px" 
+    style="padding-right: 10px;"                                            
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="typescript" 
+    title="typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
 
 O Sistema de Integrado de Manutenção Escolar (SIME) é um sistema criado para facilitar a gestão de manutenção em escolas. Com uma interface simples e acessível, permite registrar ordens de serviço, acompanhar tarefas em tempo real e manter tudo organizado em um só lugar.
 Funciona no computador e no celular, ajudando diretores, coordenadores e equipes técnicas a terem mais controle, agilidade e economia no cuidado com a infraestrutura escolar.
